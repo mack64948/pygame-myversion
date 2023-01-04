@@ -7,7 +7,8 @@
 |Python3| |GithubCommits| |BlackFormatBadge|
 
 Pygame_ is a free and open-source cross-platform library
-for the development of multimedia applications like video games using Python.
+for the development of multimedia applications like video games using Python.  
+It's great for making games.
 It uses the `Simple DirectMedia Layer library`_ and several other
 popular libraries to abstract the most common functions, making writing
 these programs a more intuitive task.
